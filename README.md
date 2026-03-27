@@ -1,10 +1,10 @@
 <img src="https://ai-model-hub.netlify.app/logo.png">
 
-### Generating Fake Data
-
-Generate a JSON array of AI tools/products with the following structure:
+### Generating Fake Data: Prompt
 
 ```
+Generate a JSON array of AI tools/products with the following structure:
+
 - id: unique integer
 - title: name of the AI tool
 - description: 2 short lines separated by a newline character (\n)
