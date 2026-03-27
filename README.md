@@ -1,4 +1,4 @@
-<img width="100" height="100"src="https://ai-model-hub.netlify.app/logo.png">
+<img width="100" height="100" src="https://ai-model-hub.netlify.app/logo.png">
 
 ### Generating Fake Data: Prompt
 
